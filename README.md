@@ -8,5 +8,6 @@ Problem Statement 5: Skills Gap Analysis Engine
 https://github.com/a03m06/JanCohort_PS5
 
 Problem Statement 8: AI-Powered Job Description Generator 
+https://github.com/Sunistha-Agarwal/wevolve-ps8
 
 
